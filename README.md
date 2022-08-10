@@ -22,7 +22,7 @@ make
 
 ## Screenshots
 
-<img src="https://github.com/Bilaboz/cub3D/raw/master/screenshot_1.png" width="49%"/> <img src="https://github.com/Bilaboz/cub3D/raw/master/screenshot_2.png" width="49%"/> 
+<img src="https://github.com/Bilaboz/cub3D/raw/master/screenshots/screenshot_1.png" width="49%"/> <img src="https://github.com/Bilaboz/cub3D/raw/master/screenshots/screenshot_2.png" width="49%"/> 
 
 ## Authors
 
