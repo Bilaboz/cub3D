@@ -9,8 +9,6 @@ Cub3D is a Wolfenstein 3D inspired game using raycasting.
 
 - Wall colisions
 - Minimap
-- Rotate the point of view with the mouse
-
 
 
 ## Usage / Examples
