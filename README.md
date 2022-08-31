@@ -5,7 +5,7 @@
 Cub3D is a Wolfenstein 3D inspired game using raycasting.
 
 
-## Features
+## Features / Bonuses
 
 - Wall colisions
 - Minimap
